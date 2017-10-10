@@ -1,0 +1,10 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="CALYPSO_PROJECT" value="C:/dev/source" />
+    <macro name="JBOSS_HOME" value="jboss-eap-dist-7.0.4.0" />
+    <macro name="JBOSS_LOCAL" value="C:/dev/jboss-local" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Program Files\JetBrains\IntelliJ IDEA 2017.2.5\plugins\Kotlin\kotlinc" />
+    <macro name="LOCAL_ENV" value="muji" />
+    <macro name="MAVEN_REPOSITORY" value="C:/dev/maven/repo" />
+  </component>
+</application>
