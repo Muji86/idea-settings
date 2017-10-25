@@ -5,15 +5,7 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>ke*.java</mask>
-      <mask>key*.java</mask>
-      <mask>keywo*.java</mask>
-      <mask>keyw*.java</mask>
-      <mask>*keyw*.java</mask>
-      <mask>*key*.java</mask>
-      <mask>*ke*.java</mask>
       <mask>*k*.java</mask>
-      <mask>**.java</mask>
       <mask>*const*.java</mask>
       <mask>*cons*.java</mask>
       <mask>*con*.java</mask>
@@ -34,6 +26,14 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
+      <mask>*PAnd*.java</mask>
+      <mask>*PAn*.java</mask>
+      <mask>*PA*.java</mask>
+      <mask>*P*.java</mask>
+      <mask>**.java</mask>
+      <mask>*pan*.java</mask>
+      <mask>*pa*.java</mask>
+      <mask>*p*.java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
